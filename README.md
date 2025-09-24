@@ -18,9 +18,7 @@ A solução final é um dashboard interativo construído com Streamlit, projetad
 * **Diagnóstico de Churn:** Exibe um gráfico com os principais fatores que influenciam a decisão de um cliente cancelar o serviço, baseado no modelo de Machine Learning. Permite uma análise detalhada e interativa por fator.
 * **Plano de Ação Estratégico:** Traduz os insights dos dados em recomendações de negócio concretas e acionáveis para diferentes áreas da empresa (Marketing, Produto, Customer Success).
 
-### 📸 Screenshot
-
-![Dashboard Screenshot](images/screenshot_dashboard.png)
+![Dashboard Screenshot](imagem/screenshot_dashboard.png)
 
 ---
 
